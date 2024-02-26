@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "idPatient": 0,
+    "PatientName": "Zaza Lujan",
+    "idProfessional": 0,
+    "ProfessionalName": "Dr. Adriazola",
+    "idArea": 0,
+    "AreaName": "Cardiologia",
+    "duration": "00:30",
+    "date": {
+      "start": "2024-02-24T10:00",
+      "end": "2024-02-24T10:30"
+    },
+    "status": "PENDING"
+  },
+  {
+    "id": 1,
+    "idPatient": 1,
+    "PatientName": "Torres Trineo",
+    "idProfessional": 1,
+    "ProfessionalName": "Dr. Cabrera",
+    "idArea": 1,
+    "AreaName": "Cardiologia",
+    "date": {
+      "start": "2024-02-24T11:00",
+      "end": "2024-02-24T12:00"
+    },
+    "status": "ATTENDED"
+  },
+  {
+    "id": 2,
+    "idPatient": 2,
+    "PatientName": "Motterna",
+    "idProfessional": 2,
+    "ProfessionalName": "Dr. Fermin Perez",
+    "idArea": 2,
+    "AreaName": "Cardiologia",
+    "date": {
+      "start": "2024-02-24T14:00",
+      "end": "2024-02-24T15:00"
+    },
+    "status": "CANCELLED"
+  },
+  {
+    "id": 3,
+    "idPatient": 3,
+    "PatientName": "Jochechito",
+    "idProfessional": 3,
+    "ProfessionalName": "Dr. Virginia Chumbe",
+    "idArea": 3,
+    "AreaName": "Cardiologia",
+    "date": {
+      "start": "2024-02-24T16:00",
+      "end": "2024-02-24T20:00"
+    },
+    "status": "RESCHEDULED"
+  }
+]

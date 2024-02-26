@@ -1,0 +1,93 @@
+[
+  {
+    "citaId": 1,
+    "pacienteId": 1,
+    "pacienteFullName": "Paciente 1",
+    "profesionalId": 1,
+    "profesionalFullName": "Profesional 1",
+    "areaId": 1,
+    "areaName": "Area 1",
+    "areaDuration": "00:30",
+    "StartTime": "2024-02-25T16:00",
+    "EndTime": "2024-02-25T16:30",
+    "Status": "PENDING"
+  }, 
+  {
+    "citaId": 2,
+    "pacienteId": 2,
+    "pacienteFullName": "Paciente 2",
+    "profesionalId": 2,
+    "profesionalFullName": "Profesional 2",
+    "areaId": 2,
+    "areaName": "Area 2",
+    "areaDuration": "00:30",
+    "StartTime": "2024-02-25T09:30",
+    "EndTime": "2024-02-25T10:00",
+    "Status": "ATTENDED"
+  },
+  {
+    "citaId": 3,
+    "pacienteId": 3,
+    "pacienteFullName": "Paciente 3",
+    "profesionalId": 3,
+    "profesionalFullName": "Profesional 3",
+    "areaId": 3,
+    "areaName": "Area 3",
+    "areaDuration": "00:30",
+    "StartTime": "2024-02-25T10:30",
+    "EndTime": "2024-02-25T11:00",
+    "Status": "CANCELLED"
+  }, 
+  {
+    "citaId": 4,
+    "pacienteId": 4,
+    "pacienteFullName": "Paciente 4",
+    "profesionalId": 4,
+    "profesionalFullName": "Profesional 4",
+    "areaId": 4,
+    "areaName": "Area 4",
+    "areaDuration": "00:30",
+    "StartTime": "2024-02-25T11:30",
+    "EndTime": "2024-02-25T12:00",
+    "Status": "RESCHEDULED"
+  }, 
+  {
+    "citaId": 5,
+    "pacienteId": 5,
+    "pacienteFullName": "Paciente 5",
+    "profesionalId": 5,
+    "profesionalFullName": "Profesional 5",
+    "areaId": 5,
+    "areaName": "Area 5",
+    "areaDuration": "00:30",
+    "StartTime": "2024-02-25T12:30",
+    "EndTime": "2024-02-25T13:00",
+    "Status": "PENDING"
+  }, 
+  {
+    "citaId": 6,
+    "pacienteId": 6,
+    "pacienteFullName": "Paciente 6",
+    "profesionalId": 6,
+    "profesionalFullName": "Profesional 6",
+    "areaId": 6,
+    "areaName": "Area 6",
+    "areaDuration": "00:30",
+    "StartTime": "2024-02-25T13:30",
+    "EndTime": "2024-02-25T14:00",
+    "Status": "ATTENDED"
+  }, 
+  {
+    "citaId": 7,
+    "pacienteId": 7,
+    "pacienteFullName": "Paciente 7",
+    "profesionalId": 7,
+    "profesionalFullName": "Profesional 7",
+    "areaId": 7,
+    "areaName": "Area 7",
+    "areaDuration": "00:30",
+    "StartTime": "2024-02-25T14:30",
+    "EndTime": "2024-02-25T15:00",
+    "Status": "CANCELLED"
+  }
+]

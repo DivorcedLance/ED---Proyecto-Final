@@ -1,0 +1,145 @@
+[
+  {
+    "monday": [
+      {
+        "start": "2024-02-20T11:00",
+        "end": "2024-02-20T12:00",
+        "professionals": [
+            {
+                "id": 1,
+                "professionalName": "Dr. Pedro Castillo"
+            }
+        ]
+      },
+      {
+        "start": "2024-02-20T13:00",
+        "end": "2024-02-20T14:00",
+        "professionalName": ["Dr. Petronilo Lopez"]
+      }
+    ]
+  },
+  {
+    "tuesday": [
+      {
+        "start": "2024-02-21T09:00",
+        "end": "2024-02-21T10:00",
+        "professionalName": ["Dra. María Rodríguez"]
+      },
+      {
+        "start": "2024-02-21T11:00",
+        "end": "2024-02-21T12:00",
+        "professionalName": ["Dr. Juan García"]
+      }
+    ]
+  },
+  {
+    "wednesday": [
+      {
+        "start": "2024-02-22T10:00",
+        "end": "2024-02-22T11:00",
+        "professionalName": ["Dr. Carlos Pérez"]
+      }
+    ]
+  },
+  {
+    "thursday": [
+      {
+        "start": "2024-02-23T13:00",
+        "end": "2024-02-23T14:00",
+        "professionalName": ["Dr. Ana López"]
+      }
+    ]
+  },
+  {
+    "friday": [
+      {
+        "start": "2024-02-24T15:00",
+        "end": "2024-02-24T16:00",
+        "professionalName": ["Dr. José Ramírez"]
+      }
+    ]
+  },
+  {
+    "saturday": [
+      {
+        "start": "2024-02-25T09:00",
+        "end": "2024-02-25T10:00",
+        "professionalName": ["Dra. Sofía González"]
+      },
+      {
+        "start": "2024-02-25T10:00",
+        "end": "2024-02-25T11:00",
+        "professionalName": ["Dr. Petronilo Lopez"]
+      }
+    ]
+  },
+  {
+    "monday": [
+      {
+        "start": "2024-02-26T11:00",
+        "end": "2024-02-26T12:00",
+        "professionalName": ["Dr. Pedro Castillo"]
+      },
+      {
+        "start": "2024-02-26T13:00",
+        "end": "2024-02-26T14:00",
+        "professionalName": ["Dra. María Rodríguez"]
+      }
+    ]
+  },
+  {
+    "tuesday": [
+      {
+        "start": "2024-02-27T09:00",
+        "end": "2024-02-27T10:00",
+        "professionalName": ["Dra. Laura Martínez"]
+      },
+      {
+        "start": "2024-02-27T11:00",
+        "end": "2024-02-27T12:00",
+        "professionalName": ["Dr. Marcos Sánchez"]
+      }
+    ]
+  },
+  {
+    "wednesday": [
+      {
+        "start": "2024-02-28T10:00",
+        "end": "2024-02-28T11:00",
+        "professionalName": ["Dr. Juan García"]
+      }
+    ]
+  },
+  {
+    "thursday": [
+      {
+        "start": "2024-02-29T13:00",
+        "end": "2024-02-29T14:00",
+        "professionalName": ["Dr. Ana López"]
+      }
+    ]
+  },
+  {
+    "friday": [
+      {
+        "start": "2024-03-01T15:00",
+        "end": "2024-03-01T16:00",
+        "professionalName": ["Dr. José Ramírez"]
+      }
+    ]
+  },
+  {
+    "saturday": [
+      {
+        "start": "2024-03-02T09:00",
+        "end": "2024-03-02T10:00",
+        "professionalName": ["Dra. Sofía González"]
+      },
+      {
+        "start": "2024-03-02T10:00",
+        "end": "2024-03-02T11:00",
+        "professionalName": ["Dr. Petronilo Lopez"]
+      }
+    ]
+  }
+]

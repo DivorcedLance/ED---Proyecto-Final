@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "idPatient": 1,
+    "PatientName": "Maria Sanchez",
+    "idProfessional": 1,
+    "ProfessionalName": "Dra. Ana Rodriguez",
+    "idArea": 1,
+    "AreaName": "Pediatría",
+    "date": {
+      "start": "2024-02-20T14:00",
+      "end": "2024-02-20T15:00"
+    },
+    "status": "ATTENDED"
+  },
+
+  {
+    "id": 2,
+    "idPatient": 1,
+    "PatientName": "Maria Sanchez",
+    "idProfessional": 2,
+    "ProfessionalName": "Dr. Javier Martinez",
+    "idArea": 0,
+    "AreaName": "Cardiología",
+    "date": {
+      "start": "2024-02-21T09:30",
+      "end": "2024-02-21T10:30"
+    },
+    "status": "CANCELLED"
+  },
+
+  {
+    "id": 3,
+    "idPatient": 1,
+    "PatientName": "Maria Sanchez",
+    "idProfessional": 3,
+    "ProfessionalName": "Dr. Gabriel Lopez",
+    "idArea": 3,
+    "AreaName": "Dermatología",
+    "date": {
+      "start": "2024-02-22T11:15",
+      "end": "2024-02-22T12:15"
+    },
+    "status": "RESCHEDULED"
+  },
+
+  {
+    "id": 4,
+    "idPatient": 1,
+    "PatientName": "Maria Sanchez",
+    "idProfessional": 4,
+    "ProfessionalName": "Dra. Sofia Ramirez",
+    "idArea": 4,
+    "AreaName": "Oftalmología",
+    "date": {
+      "start": "2024-02-23T16:00",
+      "end": "2024-02-23T17:00"
+    },
+    "status": "PENDING"
+  },
+
+  {
+    "id": 5,
+    "idPatient": 1,
+    "PatientName": "Maria Sanchez",
+    "idProfessional": 5,
+    "ProfessionalName": "Dr. Luis Hernandez",
+    "idArea": 2,
+    "AreaName": "Ginecología",
+    "date": {
+      "start": "2024-02-24T15:30",
+      "end": "2024-02-24T16:30"
+    },
+    "status": "PENDING"
+  }
+]

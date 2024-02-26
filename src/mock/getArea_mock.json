@@ -1,0 +1,27 @@
+[
+  {
+    "areaId": 1,
+    "areaName": "Area 1",
+    "areaDuration": "01:00"
+  }, 
+  {
+    "areaId": 2,
+    "areaName": "Area 2",
+    "areaDuration": "00:30"
+  },
+  {
+    "areaId": 3,
+    "areaName": "Area 3",
+    "areaDuration": "01:30"
+  },
+  {
+    "areaId": 4,
+    "areaName": "Area 4",
+    "areaDuration": "00:30"
+  },
+  {
+    "areaId": 5,
+    "areaName": "Area 5",
+    "areaDuration": "01:00"
+  }
+]

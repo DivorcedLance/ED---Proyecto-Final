@@ -1,0 +1,63 @@
+
+{
+  "monday": [
+    {
+      "startTime": "2024-02-26T08:00",
+      "endTime": "2024-02-26T18:00",
+      "professionals": [
+        {
+          "id": 1,
+          "profesionalFullName": "Profesional 1"
+        },
+        {
+          "id": 2,
+          "profesionalFullName": "Profesional 2"
+        }
+      ]
+    }, 
+    {
+      "startTime": "2024-02-26T10:00",
+      "endTime": "2024-02-26T18:00",
+      "professionals": [
+        {
+          "id": 3,
+          "profesionalFullName": "Profesional 3"
+        },
+        {
+          "id": 4,
+          "profesionalFullName": "Profesional 4"
+        }
+      ]
+    }
+  ], 
+  "tuesday": [
+    {
+      "startTime": "2024-02-26T08:00",
+      "endTime": "2024-02-26T18:00",
+      "professionals": [
+        {
+          "id": 1,
+          "profesionalFullName": "Profesional 1"
+        },
+        {
+          "id": 2,
+          "profesionalFullName": "Profesional 2"
+        }
+      ]
+    }, 
+    {
+      "startTime": "2024-02-26T10:00",
+      "endTime": "2024-02-26T18:00",
+      "professionals": [
+        {
+          "id": 3,
+          "profesionalFullName": "Profesional 3"
+        },
+        {
+          "id": 4,
+          "profesionalFullName": "Profesional 48"
+        }
+      ]
+    }
+  ]
+}
